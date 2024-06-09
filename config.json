@@ -1,0 +1,6 @@
+{
+    "exclude_tables": [],
+    "exclude_columns": {
+      "users": ["username"]
+    }
+  }
